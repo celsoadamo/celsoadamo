@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @celsoadamo
-- 👀 **I’m Senior ETL and BI Developer / Data Scientists**
+- 👀 **I’m Senior ETL and BI Developer**
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
